@@ -5,6 +5,9 @@ title: "Is AI the Bane of Software Engineering?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-02
 published: true
+labels:
+  - Engineering
+  - Artificial Intelligence
 ---
 *"AI is an Existential Threat to Humanity."*– Geoffrey Hinton
 
