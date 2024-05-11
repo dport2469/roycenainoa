@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Royce Cornwell",
+    "label": "Student",
+    "picture": "https://github.com/roycenainoa.png",
+    "email": "royce9@hawaii.edu",
+    "phone": "808-634-1433",
+    "website": "https://roycenainoa.github.io",
+    "summary": "I am studying for a M.S. in Computer Science. I have graduated with a B.S. in Electrical Engineering at UH Manoa, but plan to continue my education in Germany.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "roycenainoa", "url": "http://github.com/roycenainoa" },
+      { "network": "linkedin", "username": "roycecornwell", "url": "http://linkedin.com/in/royce-cornwell" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Software Engineering" },
+    { "name": "Circuit Design" },
+    { "name": "Language Studies" },
+    { "name": "Full Stack Web Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "Assembly", "PLC Ladder Logic" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "g++", "CLion" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2019-08-23",
+      "endDate": "2023-12-15",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "NHSEMP Math Tutor",
+      "website": "https://hawaii.edu/nhsemp",
+      "startDate": "2021-09-04",
+      "endDate": "2022-05-01",
+      "summary": "Tutored for math subjects such as Calculus, Algebra",
+      "highlights": [
+        "Held group studies from calculus level math courses",
+        "Tutored in other subjects such as intro to programming"
+      ]
+    },
+    {
+      "company": "Keck Observatory",
+      "position": "Akamai Workforce Initiative Intern",
+      "website": "http://www.wmkeck.org/",
+      "startDate": "2021-06-15",
+      "endDate": "2021-08-13",
+      "summary": "From the Akamai Workforce Initiative, worked at the Kec Observatory as an electrical engineer intern",
+      "highlights": [
+        "Reviewed existing designs & creating plans for integrating hardware",
+        "Implemented with Ladder Logic programming (RSLogix500 programming environment)",
+        "Presented project in a technical STEM format"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Moʻiliʻili Community Center",
+      "website": "https://www.moiliilicc.org/",
+      "position": "Japanese Tutor",
+      "startDate": "2019-10-08",
+      "endDate": "2020-01-20",
+      "summary": "Tutored kids at the community center with homework and learning Japanese",
+      "highlights": [
+        "Created a study plan for beginner Japanese learning"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "JASSO Scholarship",
+      "date": "2022",
+      "awarder": "Japan Government",
+      "summary": "The Japan Student Services Organization (JASSO) offers scholarships for qualified international students who are accepted by a Japanese university. I was accepted for one semester as an exchange student and awarded for my academic standings."
+    },
+    {
+      "title": "Alakaina Scholarship",
+      "date": "2019",
+      "awarder": "University of Hawaii at Kauai Community College",
+      "summary": "Before transferring to a 4-year institution, I was awarded with the Alakaina foundation  for a written essay about their passion for engineering and alongside their GPA of 3.5 and above."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
