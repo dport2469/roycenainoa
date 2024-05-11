@@ -13,7 +13,7 @@ summary: "This is a software engineering project known as Manoa Reclaim, and for
 ---
 <img src="../img/Home.png" style="width: 50%; height: auto;">
 
-Website URL: [Manoa Reclaim](https://manoareclaim.online/)
+[Manoa Reclaim Website](https://manoareclaim.online/)
 
 ## Overview
 
