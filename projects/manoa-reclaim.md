@@ -11,8 +11,9 @@ labels:
   - Software Engineering
 summary: "This is a software engineering project known as Manoa Reclaim, and for the project I designed a Lost and Found web application with other team members using software engineering concepts taught through the course."
 ---
-<img class="img-fluid" src="../img/Home.png" style="width: 50%; height: auto;">
-Website URL: https://manoareclaim.online/
+<img src="../img/Home.png" style="width: 50%; height: auto;">
+
+Website URL: [Manoa Reclaim](https://manoareclaim.online/)
 
 ## Overview
 
@@ -39,5 +40,5 @@ And here in the form, you can mark the location of the item where it was recover
 Although Manoa Reclaim has much fine tuning such as adding images to view the item, contact information and more. This project, Manoa Reclaim, offered valuable experience as a software engineer when getting a project off the ground. One valuable tool my team mates and I have utilized is the Issue Driven Project Management (IDPM) to help manage the workflow of the project. Logging hours worked on a task, splitting one task into subtasks and managing time helped streamline development of Manoa Reclaim. At this time, I hope to improve Manoa Reclaim so that UH students can find this web application useful.
 
 If interested in the project, here is the projects documentation and source code:
-Homepage: https://manoa-reclaim.github.io/
-Source Code: https://github.com/manoa-reclaim/Manoa-reclaim-app
+[Homepage](https://manoa-reclaim.github.io/)
+[Source Code (GitHub)](https://github.com/manoa-reclaim/Manoa-reclaim-app)
